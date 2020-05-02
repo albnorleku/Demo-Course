@@ -7,7 +7,7 @@ public class User {
     private String [] nickNames;
 
     private static int nrOfUsers;
-    private static final String type = "Human";
+    private static final String TYPE = "Human";
 
     /**
      * Static Block

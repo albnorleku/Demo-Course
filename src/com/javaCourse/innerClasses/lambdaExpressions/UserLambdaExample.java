@@ -4,7 +4,6 @@ import com.javaCourse.classes.User;
 
 public class UserLambdaExample {
     public static void main(String [] args) {
-
         User user = new User("Filan", 30, "filan@gmail.com");
 
         GetNamePerson getNamePerson = new GetNamePerson() { //anonymous class

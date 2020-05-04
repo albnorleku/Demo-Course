@@ -1,6 +1,5 @@
 package com.javaCourse.inheritance;
 
-import com.javaCourse.inheritance.interfaces.Shape;
 import com.javaCourse.inheritance.interfaces.ThreeDShape;
 
 public class Cat extends Animal implements ThreeDShape { //IS-A relationship

@@ -5,7 +5,16 @@ public abstract class Mesimdhenesi implements Angazhohet {
     private int vitiILindjes;
     private String fushaEStudimit;
 
-    public Mesimdhenesi(String emri, int vitiILindjes, String fushaEStudimit) {
+    public Mesimdhenesi(String emri, int vitiILindjes, String fushaEStudimit) throws MesimdhenesiException {
+        if (emri == null || emri.isEmpty()) {
+            throw new MesimdhenesiException("Emri nuk mund te jete i zbrazet!");
+        }
+        if(vitiILindjes < 0) {
+            throw new MesimdhenesiException("Viti i lindjes nuk mund te jete Negativ");
+        }
+        if (fushaEStudimit == null || fushaEStudimit.isEmpty()) {
+            throw new MesimdhenesiException("Fusha e Studimit nuk mund te jete i zbrazet!");
+        }
         this.emri = emri;
         this.vitiILindjes = vitiILindjes;
         this.fushaEStudimit = fushaEStudimit;

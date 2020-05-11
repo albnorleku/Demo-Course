@@ -1,0 +1,19 @@
+
+c
+java:S4143y"FVerify this is the index that was intended; it was already set before.(¦¿é°8¸‚îÿ.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¬ÑÈÿÿÿÿÿ8÷¸Îÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬ˆƒğ8ğæ‚ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§•ØÂüÿÿÿÿ8ÆÔëş.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®›æîùÿÿÿÿ
+Š
+java:S4165Q"hRemove this useless assignment; "gomeRezerv" already holds the assigned value along all execution paths.(¡Á®èøÿÿÿÿ8öİÅÿ.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(†ÖÇ8÷¸Îÿ.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(Â¬½8÷¸Îÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´ê¿İ8÷ÚÔş.
+W
+java:S1161T":Add the "@Override" annotation above this method signature(Á»›ê8·”Öÿ.
+J
+java:S1068"(Remove this unused "emri" private field.(ßİÏ¨ıÿÿÿÿ8ĞÌÅş.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(Ş¥èªıÿÿÿÿ8÷¸Îÿ.
+S
+java:S1172""1Remove this unused method parameter "kaTempomat".(ÿ„‘ƒûÿÿÿÿ8¦Ş‡ÿ.

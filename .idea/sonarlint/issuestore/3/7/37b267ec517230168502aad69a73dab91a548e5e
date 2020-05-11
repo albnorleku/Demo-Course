@@ -1,0 +1,7 @@
+
+F
+java:S1144")Remove this unused private "mass" method.(À¹È8…ùÑ°.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(÷ş£Ùûÿÿÿÿ8…ùÑ°.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¼×èúÿÿÿÿ8…ùÑ°.
+M
+java:S1144"+Remove this unused private "radius" method.(óá¨ ûÿÿÿÿ8…ùÑ°.

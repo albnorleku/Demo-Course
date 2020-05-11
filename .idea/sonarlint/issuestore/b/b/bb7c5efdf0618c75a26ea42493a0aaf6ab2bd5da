@@ -1,0 +1,18 @@
+
+W	java:S1253"<This block of commented-out lines of code should be removed.(ˆ÷€\8ù¾ıÒŸ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Á½Ğö8ïĞöÑŸ.
+H
+java:S1481"&Remove this unused "c" local variable.(“ÅÖ¡üÿÿÿÿ8š˜¥ÒŸ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò³ß½8®ÃÑŸ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦ÖçÇıÿÿÿÿ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.( ¶àû8Ò‡ÙÒŸ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìĞÃØ8­™ßÑŸ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ôºÊùÿÿÿÿ8ªº¤ÒŸ.
+X	java:S125 "<This block of commented-out lines of code should be removed.(¦›ç8õ»ÒŸ.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(–†Ä‡ûÿÿÿÿ8¡œÏÑŸ.
+W	java:S125"<This block of commented-out lines of code should be removed.(›½¸%8øÓ›ÒŸ.
+Y
+java:S3518"7Make sure "a" can't be zero before doing this division.(“ÅÖ¡üÿÿÿÿ8š˜¥ÒŸ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÉÿëĞşÿÿÿÿ8õ»ÒŸ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(èóÄ¡øÿÿÿÿ8ÍòıÒŸ.

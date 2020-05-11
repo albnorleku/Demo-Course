@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¼×èúÿÿÿÿ
+z	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ì»¾úÿÿÿÿ8ü“Á°.
+O
+java:S1199"-Extract this nested code block into a method.(Òª‡³ûÿÿÿÿ8“ÙÅ°.
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Òª‡³ûÿÿÿÿ8“ÙÅ°.
+J
+java:S1199"-Extract this nested code block into a method.(­ ñ8µŸÆ°.
+O
+java:S1199"-Extract this nested code block into a method.(üÜ…ÿıÿÿÿÿ8“ÙÅ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÆâè8“ÙÅ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ÒŠ£ÿÿÿÿÿ8“ÙÅ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı»åÀùÿÿÿÿ8ÅŠ»°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡İíüÿÿÿÿ8µŸÆ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤Ó‹ıÿÿÿÿ8Î¨¸°.
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(üÜ…ÿıÿÿÿÿ8“ÙÅ°.

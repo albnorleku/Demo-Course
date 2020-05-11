@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„£õòùÿÿÿÿ
+T
+java:S1226 ">Introduce a new variable instead of reusing the parameter "y".(îùæË
+Y
+java:S1226">Introduce a new variable instead of reusing the parameter "x".(ã‘†¾ÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(‘Þø†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+B
+java:S1481",Remove this unused "userIRi" local variable.(£™ ¶
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘åâ†üÿÿÿÿ

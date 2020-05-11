@@ -1,0 +1,11 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨¬êZ8Ê‘Éàœ.
+V
+java:S1611"4Remove the parentheses around the "person" parameter(¿ÆÖ“úÿÿÿÿ8ü½Õàœ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìò¿»
+J
+java:S1604	"(Make this anonymous inner class a lambda(éÍâøÿÿÿÿ8Š©Ôàœ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ÎÊÊùÿÿÿÿ8˜‡Îàœ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯İåç8´éïàœ.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¿ÆÖ“úÿÿÿÿ8şËìàœ.

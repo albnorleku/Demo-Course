@@ -1,0 +1,10 @@
+
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(õ•Šêûÿÿÿÿ8Óõœßœ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“óİÿÿÿÿÿ8Óõœßœ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ùé«‘
+]	java:S125"<This block of commented-out lines of code should be removed.(ÜĞ×Çÿÿÿÿÿ8Óõœßœ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(°Ñşúÿÿÿÿ8Óõœßœ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¡È ©úÿÿÿÿ8Óõœßœ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¨ÀÔ¼ùÿÿÿÿ8Óõœßœ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“óİÿÿÿÿÿ8Óõœßœ.

@@ -1,0 +1,31 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½š¾şÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ³Ãô
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¤‹åÙ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ã¤‘şÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÏëŠ•
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(—ò…÷
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(°ĞºÁşÿÿÿÿ
+G
+java:S1481",Remove this unused "byteVar" local variable.(‡¹º¹ÿÿÿÿÿ
+C
+java:S1481"-Remove this unused "shortVar" local variable.(¥ç¿Ç
+G
+java:S1481",Remove this unused "longVar" local variable.(ĞÇ®Ôûÿÿÿÿ
+C
+java:S1481"-Remove this unused "floatVar" local variable.(‘‚ôÆ
+I
+java:S1481".Remove this unused "doubleVar" local variable.(¶ÛÍıÿÿÿÿÿ
+J
+java:S1481 "/Remove this unused "booleanVar" local variable.(Àô‹éúÿÿÿÿ
+B
+java:S1481"",Remove this unused "charVar" local variable.(éÄÏ
+?
+java:S1481$")Remove this unused "name" local variable.(ßíªß
+J
+java:S1481/"/Remove this unused "helloWorld" local variable.(›¹ùÿÿÿÿÿ
+;
+java:S1068"%Remove this unused "b" private field.(Ë«Ì›
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ÚË—¬
+V	java:S125*"<This block of commented-out lines of code should be removed.(—´÷ûÿÿÿÿ

@@ -1,0 +1,6 @@
+
+R
+java:S1068"0Remove this unused "manufacturer" private field.(‹Ùšıÿÿÿÿ8ªé‹ƒ.
+„
+java:S4165"bRemove this useless assignment; "gear" already holds the assigned value along all execution paths.(²òãüÿÿÿÿ8Æ…ƒ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âåø÷

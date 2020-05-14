@@ -1,6 +1,4 @@
 
-F
-src/com/javaCourse/sad,2\4\24108ee66cd281e6cf50b8f39d927b5336f01972
 [
 +src/com/javaCourse/classes/PassByValue.java,9\0\901bc38b6ac5cd4c6ae9be816126fa4aa2610627
 q
@@ -89,3 +87,19 @@ b
 0src/com/javaCourse/exceptions/ExceptionTest.java,b\b\bb7c5efdf0618c75a26ea42493a0aaf6ab2bd5da
 q
 Asrc/com/javaCourse/inheritance/example/MesimdhenesiException.java,8\a\8af44bb627764efd8ab0552d8b0565cc5af8fd19
+[
++src/com/javaCourse/numbers/NumbersDemo.java,b\f\bfee63639f0d7bcdab979f9f8f3f0218329d317e
+]
+-src/com/javaCourse/generics/GenericClass.java,e\c\ecf982bdaa39a98f5f75ea157c6248c55be06f87
+\
+,src/com/javaCourse/generics/MaximumDemo.java,4\7\478d788d0e18b11ada493f6525c2b20cb01fc2c7
+\
+,src/com/javaCourse/generics/GenericDemo.java,c\4\c4d798f15eb92db8ae06e69e77913a7587c081fa
+_
+/src/com/javaCourse/javaIO/MesimdhenesiType.java,8\2\8256180cf19346fc1b986cca5be6901e440c9991
+\
+,src/com/javaCourse/javaIO/Mesimdhenesit.java,f\d\fd0115902849dc37c6beeba76dda4912635dce8f
+b
+2src/com/javaCourse/javaIO/BufferedStreamsDemo.java,3\8\38deef95758c9cd5789d4495be1d783ba59b7847
+]
+-src/com/javaCourse/javaIO/ByteStreamDemo.java,5\9\591fe2ecba6509636647f99f34dd7b4ab7aa2b3e

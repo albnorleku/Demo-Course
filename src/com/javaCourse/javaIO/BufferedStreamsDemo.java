@@ -3,16 +3,15 @@ package com.javaCourse.javaIO;
 import com.javaCourse.inheritance.example.*;
 
 import java.io.*;
-import java.nio.file.Files;
 
 public class BufferedStreamsDemo {
-    private static final String path = "C:\\Users\\albno\\Desktop\\Course\\TestProjects\\Mesimdhenesit.txt";
+    public static final String PATH = "C:\\Users\\albno\\Desktop\\Course\\TestProjects\\Mesimdhenesit.txt";
 
     public static void main(String[] args) {
         try {
             Fakulteti fakulteti = new Fakulteti("Test", 10);
 
-            Mesimdhenesi [] mesimdhenesit = getMesimdhenesit(path);
+            Mesimdhenesi [] mesimdhenesit = getMesimdhenesit(PATH);
 
             for (Mesimdhenesi mesimdhenesi : mesimdhenesit ) {
                 if ( mesimdhenesi != null) {

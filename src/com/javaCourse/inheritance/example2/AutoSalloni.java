@@ -1,49 +1,64 @@
 package com.javaCourse.inheritance.example2;
 
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.stream.Collectors;
+
 public class AutoSalloni {
     private String emri;
-    private Automjeti [] automjetet;
-    private int index = 0;
+    private Set<Automjeti> automjetet;
 
-    public AutoSalloni(String emri, int nrParkingjeve) {
+    public AutoSalloni(String emri) {
         this.emri = emri;
-        this.automjetet = new Automjeti[nrParkingjeve];
+        this.automjetet = new HashSet<>();
     }
 
     public void shtoAutomjetin(Automjeti automjet) {
-        if (automjetet.length == index) {
+        /*if (automjetet.length == index) {
             System.out.println("Nuk ka vend ne Varg!");
             return;
-        }
-        for(int i = 0; i < index; i++) {
-            if (automjetet[i].equals(automjet)) {
+        }*/
+        for(Automjeti aut : automjetet) {
+            if (aut.equals(automjet)) {
                 System.out.println("Automjeti ekziston!");
+                return;
             }
         }
-        automjetet[index++] = automjet;
+        automjetet.add(automjet);
     }
 
     public void shtypNumriIShpejtsive(int nrIShpejtesis) {
-        for (int i = 0; i < index; i++) {
+        automjetet.forEach(automjeti -> {
+            if (automjeti.numriIShpejtesive() == nrIShpejtesis) {
+                System.out.println(automjeti.toString());
+            }
+        });
+        /*for (int i = 0; i < index; i++) {
             if (automjetet[i].numriIShpejtesive()==nrIShpejtesis) {
                 System.out.println(automjetet[i].toString());
             }
-        }
+        }*/
     }
 
-    public Automjeti [] ktheMeTempomat(boolean kaTempomat) {
-        Automjeti [] temp = new Automjeti[index];
-        int tempIndex = 0;
-        for (int i = 0; i < index; i++) {
-            if (automjetet[i].kaTempomat()) {
-                temp[tempIndex++] = automjetet[i];
+    public Set<Automjeti> ktheMeTempomat(boolean kaTempomat) {
+        Set<Automjeti> tempAuto = new HashSet<>();
+        for (Automjeti automjeti : automjetet) {
+            if (automjeti.kaTempomat()) {
+                tempAuto.add(automjeti);
             }
         }
-        return temp;
+        return tempAuto;
+    }
+
+    public Set<Automjeti> ktheMeTempomatMeStreams(boolean kaTempomat) {
+        return automjetet.stream()
+                .filter(automjeti -> automjeti.kaTempomat() == kaTempomat)
+                .collect(Collectors.toSet());
     }
 
     public static void main(String[] args) {
-        AutoSalloni autoSalloni = new AutoSalloni("Te JAVA", 25);
+        AutoSalloni autoSalloni = new AutoSalloni("Te JAVA");
 
         Automjeti automjeti1 = new SUV(213423, "JEEP", 2005, true);
         Automjeti automjeti2 = new Limuzina(23151, "Mercedes", 2015, "E zeze");
@@ -94,7 +109,7 @@ public class AutoSalloni {
         autoSalloni.shtypNumriIShpejtsive(5);
 
         System.out.println("Vetura me tempomat: ");
-        Automjeti [] automjetetMeTempomat = autoSalloni.ktheMeTempomat(true);
+        Set<Automjeti> automjetetMeTempomat = autoSalloni.ktheMeTempomat(true);
         for (Automjeti automjeti : automjetetMeTempomat) {
             if (automjeti != null) {
                 System.out.println(automjeti.toString());

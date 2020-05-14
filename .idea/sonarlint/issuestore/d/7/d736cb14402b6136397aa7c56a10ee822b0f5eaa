@@ -1,22 +1,14 @@
 
-¦
-java:S1130"ƒRemove the declaration of thrown exception 'com.javaCourse.inheritance.example.MesimdhenesiException' which is a runtime exception.(°éÁ¦ùÿÿÿÿ8’ÌıÓŸ.
-¡
-java:S1130."ƒRemove the declaration of thrown exception 'com.javaCourse.inheritance.example.MesimdhenesiException' which is a runtime exception.(ğÚû¤8’ÌıÓŸ.
-Z	java:S106]"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8ß¸éÓŸ.
-¡
-java:S1130""ƒRemove the declaration of thrown exception 'com.javaCourse.inheritance.example.MesimdhenesiException' which is a runtime exception.(”ŞúÍ8’ÌıÓŸ.
-Z	java:S106N"9Replace this use of System.out or System.err by a logger.(óöúÿÿÿÿ8ß¸éÓŸ.
-U	java:S106c"9Replace this use of System.out or System.err by a logger.(šµé8’ÌıÓŸ.
-I
-java:S1068",Remove this unused "drejtimi" private field.(èÎ­ó8Í®Ï„.
-¡
-java:S1130"ƒRemove the declaration of thrown exception 'com.javaCourse.inheritance.example.MesimdhenesiException' which is a runtime exception.(ÒŸ¥ç8’ÌıÓŸ.
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8«š….
-@
-java:S1148a"#Use a logger to log this exception.(—Î«Á8’ÌıÓŸ.
-Z	java:S106U"9Replace this use of System.out or System.err by a logger.(Íí»Öúÿÿÿÿ8ß¸éÓŸ.
-U	java:S106Q"9Replace this use of System.out or System.err by a logger.(»¹°8ß¸éÓŸ.
-W	java:S125D"<This block of commented-out lines of code should be removed.(¬‰Ú88¥åŠÔŸ.
-U	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÇİÕ´8ß¸éÓŸ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯
+G
+java:S1068",Remove this unused "drejtimi" private field.(èÎ­ó8Í®Ï„.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8«š….
+U	java:S125"<This block of commented-out lines of code should be removed.(¬‰Ú88¥åŠÔŸ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(óöúÿÿÿÿ8ß¸éÓŸ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Íí»Öúÿÿÿÿ8ß¸éÓŸ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8ß¸éÓŸ.
+>
+java:S1148"#Use a logger to log this exception.(—Î«Á8’ÌıÓŸ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°8ß¸éÓŸ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇİÕ´8ß¸éÓŸ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šµé8’ÌıÓŸ.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯

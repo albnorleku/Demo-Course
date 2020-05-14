@@ -57,6 +57,10 @@ public class Fakulteti {
         return mesimdhenesitEAngazhimit;
     }
 
+    public Mesimdhenesi [] getMesimdhenesit() {
+        return mesimdhenesit;
+    }
+
     public static void main(String [] arg) {
         try {
             Fakulteti fakulteti = new Fakulteti("Shkenca Kompjuterike", 15);

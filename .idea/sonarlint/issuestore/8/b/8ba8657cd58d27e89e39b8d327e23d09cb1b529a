@@ -1,10 +1,10 @@
 
-k
-java:S2259"NA "NullPointerException" could be thrown; "llojiIUshtrimeve" is nullable here.(•ÿÀÑ8”€ÌÓŸ.
-\
-java:S1161":Add the "@Override" annotation above this method signature(•¦Æşÿÿÿÿ8à–ı.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯
-W
-java:S1161"":Add the "@Override" annotation above this method signature(Á»›ê8à–ı.
-M
-java:S2160"+Override the "equals" method in this class.(ËØƒùıÿÿÿÿ8à–ı.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯
+K
+java:S2160"+Override the "equals" method in this class.(ËØƒùıÿÿÿÿ8à–ı.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(•¦Æşÿÿÿÿ8à–ı.
+U
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê8à–ı.
+i
+java:S2259"NA "NullPointerException" could be thrown; "llojiIUshtrimeve" is nullable here.(•ÿÀÑ8”€ÌÓŸ.

@@ -103,3 +103,11 @@ b
 2src/com/javaCourse/javaIO/BufferedStreamsDemo.java,3\8\38deef95758c9cd5789d4495be1d783ba59b7847
 ]
 -src/com/javaCourse/javaIO/ByteStreamDemo.java,5\9\591fe2ecba6509636647f99f34dd7b4ab7aa2b3e
+m
+=src/com/javaCourse/javaIO/repository/FakultetiRepository.java,f\a\fa4d98e8d8048040263a2de54973a360679bc847
+m
+=src/com/javaCourse/javaIO/controller/FakultetiController.java,3\9\392955ea8a90a3bcdb1d7495f1f810b45739a1bc
+g
+7src/com/javaCourse/javaIO/service/FakultetiService.java,a\3\a321d460d22a654cce111634f3db58473150b603
+c
+3src/com/javaCourse/collections/CollectionsDemo.java,8\3\8397281a1f9e75863ff8eb00b73341d7eab486d6

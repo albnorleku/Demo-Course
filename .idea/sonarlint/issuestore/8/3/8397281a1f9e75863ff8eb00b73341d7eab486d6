@@ -1,0 +1,26 @@
+
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(§şÍ~8Ëàí ¡.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Ìüõ ¡.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­áÜÌ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8Ëàí ¡.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(ƒÈ¤Ö8ˆÇ«¡¡.
+]	java:S125	"<This block of commented-out lines of code should be removed.(°Î»•úÿÿÿÿ8ÄŞñ ¡.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(…ì©Û8Ëàí ¡.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ô¹‚8Èµô ¡.
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ·•Èıÿÿÿÿ8ÄŞñ ¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À´£ş8Ëàí ¡.
+K
+java:S1481".Remove this unused "stringArr" local variable.(Æ©Šç8Ëàí ¡.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(¬¥Ëøÿÿÿÿ8ê–¡¡.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(…ì©Û8Ëàí ¡.
+]	java:S125>"<This block of commented-out lines of code should be removed.(©ıíÅüÿÿÿÿ8Ëàí ¡.
+X	java:S125h"<This block of commented-out lines of code should be removed.( é³ü8Âõª¡¡.
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ƒÚáB8Ëàí ¡.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(àÉşì8Ëàí ¡.
+O
+java:S1128"3Remove this unused import 'java.security.KeyStore'.(ïººW8Á†›¡¡.
+]	java:S125"<This block of commented-out lines of code should be removed.(¡Èƒøÿÿÿÿ8¬ç—¡¡.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ÒãÖ©8Ëàí ¡.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(š¢Ãå8½÷ò ¡.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(…ì©Û8Ëàí ¡.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ùÚÀÿÿÿÿÿ8Æ¦¦¡¡.

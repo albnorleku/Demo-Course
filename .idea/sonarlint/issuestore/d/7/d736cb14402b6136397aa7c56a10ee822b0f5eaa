@@ -1,14 +1,14 @@
 
-G
-java:S1068",Remove this unused "drejtimi" private field.(èÎ­ó8Í®Ï„.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8«š….
-U	java:S125"<This block of commented-out lines of code should be removed.(¬‰Ú88¥åŠÔŸ.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(óöúÿÿÿÿ8ß¸éÓŸ.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Íí»Öúÿÿÿÿ8ß¸éÓŸ.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8ß¸éÓŸ.
->
-java:S1148"#Use a logger to log this exception.(—Î«Á8’ÌıÓŸ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°8ß¸éÓŸ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇİÕ´8ß¸éÓŸ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(šµé8’ÌıÓŸ.
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8ß¸éÓŸ.
+@
+java:S1148e"#Use a logger to log this exception.(—Î«Á8’ÌıÓŸ.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(»¹°8ß¸éÓŸ.
+I
+java:S1068",Remove this unused "drejtimi" private field.(èÎ­ó8Í®Ï„.
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(šµé8’ÌıÓŸ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(á£ƒÑùÿÿÿÿ8«š….
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ğ¯
+W	java:S125H"<This block of commented-out lines of code should be removed.(¬‰Ú88¥åŠÔŸ.
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(ÇİÕ´8ß¸éÓŸ.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Íí»Öúÿÿÿÿ8ß¸éÓŸ.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(óöúÿÿÿÿ8ß¸éÓŸ.

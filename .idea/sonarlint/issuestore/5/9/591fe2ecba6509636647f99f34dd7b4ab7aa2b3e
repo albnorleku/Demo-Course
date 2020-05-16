@@ -1,0 +1,11 @@
+
+E
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ð‚…¥ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÞáÐŽ8—½ö¤ .
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÙ‰Ùÿÿÿÿÿ
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8“â†¥ .
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¥ï³ßøÿÿÿÿ8³µì¤ .
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ôéû¤ .

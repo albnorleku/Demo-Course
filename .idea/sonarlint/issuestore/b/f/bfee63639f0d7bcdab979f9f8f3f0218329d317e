@@ -1,0 +1,15 @@
+
+H
+java:S1481"&Remove this unused "b" local variable.(îÏ¿Áúÿÿÿÿ8£ç£ .
+R
+java:S1481
+"0Remove this unused "doubleToInt" local variable.(±™„Òúÿÿÿÿ8û—¨£ .
+O
+java:S1481"2Remove this unused "valueAsObject" local variable.(Â—åô8œ…£ .
+C
+java:S1481"&Remove this unused "c" local variable.(§Ëµ8™‘£ .
+H
+java:S1481"&Remove this unused "a" local variable.(½Êşüÿÿÿÿ8§û™£ .
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÆÂÖ
+F
+java:S1481"*Remove this unused "value" local variable.(ùû8œ…£ .

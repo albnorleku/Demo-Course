@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê´È´øÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ýñ¬îùÿÿÿÿ8¤Þ¿ò¡.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¤Þ¿ò¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„Š¶Òÿÿÿÿÿ8¤Þ¿ò¡.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¤Þ¿ò¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊñŒ­úÿÿÿÿ8²ŸÂò¡.
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8²ŸÂò¡.
+X	java:S125"<This block of commented-out lines of code should be removed.(ó–ï8²ŸÂò¡.
+]	java:S125	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8²ŸÂò¡.
+X	java:S125"<This block of commented-out lines of code should be removed.(ó–ï8²ŸÂò¡.
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8²ŸÂò¡.

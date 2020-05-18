@@ -1,22 +1,22 @@
 
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì„ïÌúÿÿÿÿ8ñ½È¡¡.
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Â¬½8…»ß¡¡.
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(†ÖÇ8…»ß¡¡.
+d
+java:S4143ˆ"FVerify this is the index that was intended; it was already set before.(¦¿é°8…»ß¡¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§•ØÂüÿÿÿÿ8£îÉ¡¡.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ş¥èªıÿÿÿÿ8ÇÎ¡¡.
+W
+java:S1161c":Add the "@Override" annotation above this method signature(Á»›ê8…»ß¡¡.
+Š
+java:S4165`"hRemove this useless assignment; "gomeRezerv" already holds the assigned value along all execution paths.(¡Á®èøÿÿÿÿ8…»ß¡¡.
 S
 java:S1172,"1Remove this unused method parameter "kaTempomat".(¾Ó›üÿÿÿÿ8ñ½È¡¡.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(Ş¥èªıÿÿÿÿ8…»ß¡¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®›æîùÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8«Çâ¡¡.
+X	java:S125%"<This block of commented-out lines of code should be removed.(Œ€í»8¦ÄË¡¡.
 J
 java:S1068	"(Remove this unused "emri" private field.(ßİÏ¨ıÿÿÿÿ8ñ½È¡¡.
 Z	java:S106l"9Replace this use of System.out or System.err by a logger.(¬ÑÈÿÿÿÿÿ8…»ß¡¡.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(§•ØÂüÿÿÿÿ8£îÉ¡¡.
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8«Çâ¡¡.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ş¥èªıÿÿÿÿ8ÇÎ¡¡.
-Š
-java:S4165`"hRemove this useless assignment; "gomeRezerv" already holds the assigned value along all execution paths.(¡Á®èøÿÿÿÿ8…»ß¡¡.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®›æîùÿÿÿÿ
-U	java:S106j"9Replace this use of System.out or System.err by a logger.(†ÖÇ8…»ß¡¡.
-Z	java:S106s"9Replace this use of System.out or System.err by a logger.(Ş¥èªıÿÿÿÿ8…»ß¡¡.
-d
-java:S4143ˆ"FVerify this is the index that was intended; it was already set before.(¦¿é°8…»ß¡¡.
-]	java:S125"<This block of commented-out lines of code should be removed.(Ì„ïÌúÿÿÿÿ8ñ½È¡¡.
-U	java:S106o"9Replace this use of System.out or System.err by a logger.(Â¬½8…»ß¡¡.
-X	java:S125%"<This block of commented-out lines of code should be removed.(Œ€í»8¦ÄË¡¡.
-W
-java:S1161c":Add the "@Override" annotation above this method signature(Á»›ê8…»ß¡¡.

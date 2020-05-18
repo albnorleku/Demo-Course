@@ -1,0 +1,40 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê´È´øÿÿÿÿ
+J	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8‚á…ó¡.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(š»³¡8¿½‘ó¡.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‚á…ó¡.
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8‚á…ó¡.
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8‚á…ó¡.
+e
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8‚á…ó¡.
+n
+java:S1104"QMake Lock1 a static final constant or non-public and provide accessors if needed.(àç³8‚á…ó¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾äÇÛ8‚á…ó¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Åé÷Ú8‚á…ó¡.
+H
+java:S1444"+Make this "public static Lock2" field final(‰Œ™ş8‚á…ó¡.
+n
+java:S1104"QMake Lock2 a static final constant or non-public and provide accessors if needed.(‰Œ™ş8‚á…ó¡.
+J	java:S108&")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8‚á…ó¡.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(…¶ñù8‚á…ó¡.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.( ë×’üÿÿÿÿ8‚á…ó¡.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùıó¼üÿÿÿÿ8‚á…ó¡.
+m
+java:S3008"PRename this field "Lock2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Œ™ş8‚á…ó¡.
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(“–ış8‚á…ó¡.
+m
+java:S3008"PRename this field "Lock1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àç³8‚á…ó¡.
+h
+java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ8‚á…ó¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İ¾²è8‚á…ó¡.
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì® X8‚á…ó¡.
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8‚á…ó¡.
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(Èµ”E8‚á…ó¡.
+H
+java:S1444"+Make this "public static Lock1" field final(àç³8‚á…ó¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š»³¡8éİó¡.

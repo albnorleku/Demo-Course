@@ -1,0 +1,20 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ååœ‰ùÿÿÿÿ8Ëš½ó¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê´È´øÿÿÿÿ
+N
+java:S1602",Remove useless curly braces around statement(êöÀÆûÿÿÿÿ8Ëš½ó¡.
+]	java:S125"<This block of commented-out lines of code should be removed.(µöôúÿÿÿÿ8Ëš½ó¡.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ã…ùÿÿÿÿ8´Ÿïñ¡.
+c
+java:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8´Ÿïñ¡.
+I
+java:S1602&",Remove useless curly braces around statement(ˆ°„³8®×¶ó¡.
+X	java:S125"<This block of commented-out lines of code should be removed.(´µî8Ëš½ó¡.
+a
+java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8ò¿ªó¡.
+N
+java:S1602",Remove useless curly braces around statement(ˆ¡äÉıÿÿÿÿ8Ëš½ó¡.
+E
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´Ÿïñ¡.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(È¬ì8Ëš½ó¡.

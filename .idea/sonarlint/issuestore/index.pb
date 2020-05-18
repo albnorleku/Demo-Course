@@ -111,3 +111,17 @@ g
 7src/com/javaCourse/javaIO/service/FakultetiService.java,a\3\a321d460d22a654cce111634f3db58473150b603
 c
 3src/com/javaCourse/collections/CollectionsDemo.java,8\3\8397281a1f9e75863ff8eb00b73341d7eab486d6
+i
+9src/com/javaCourse/concurrency/ThreadDeadLockingDemo.java,4\5\45171e45f0b6f9691bb85f64440fb0eb312f0fdd
+d
+4src/com/javaCourse/concurrency/SynchronizedDemo.java,0\7\07ea4023c824c929f22ea41f9b88d9efdd2626bc
+`
+0src/com/javaCourse/singleton/SingletonClass.java,2\d\2db8f1fd466428d56ac84a8aa92ef429499cb632
+_
+/src/com/javaCourse/singleton/SingletonDemo.java,4\0\406a2e00edd74003b3b0fc90fa7667bc1a9145f5
+c
+3src/com/javaCourse/concurrency/ThreadDemoClass.java,4\c\4ceae346d587e23da348cd3307678b30f0b4eac0
+c
+3src/com/javaCourse/concurrency/ConcurrencyDemo.java,1\4\14b08167256d046383dfb2a9efb6300e2d8fc881
+e
+5src/com/javaCourse/concurrency/RunnableDemoClass.java,9\3\93273398a275141fb085cfdc6dc0afa50ee23616

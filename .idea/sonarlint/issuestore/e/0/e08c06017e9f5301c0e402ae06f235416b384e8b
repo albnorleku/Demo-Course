@@ -1,0 +1,8 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ç§(
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(½³‹ıÿÿÿÿ8»çÅ¢.
+F
+java:S2115")Add password protection to this database.(¿ªÛ²8 ËõÄ¢.
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(„Ë†¬8‹ûÅ¢.

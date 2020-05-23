@@ -1,0 +1,12 @@
+
+E
+java:S1148"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ8ŞàÔÅ¢.
+]	java:S125"<This block of commented-out lines of code should be removed.(¬ıôÁûÿÿÿÿ8ˆª¿Æ¢.
+M
+java:S1481"0Remove this unused "courseUsers" local variable.(˜•–8İØ¢Æ¢.
+E
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŞàÔÅ¢.
+W	java:S125"<This block of commented-out lines of code should be removed.(¿•ì'8Ÿğ¢Æ¢.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÄÿÖøÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(„•îÈ8İØ¢Æ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ›ÒË8¨ôÀÆ¢.

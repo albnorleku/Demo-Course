@@ -7,26 +7,43 @@ import com.javaCourse.h2Database.model.CourseUsers;
 
 import java.sql.SQLException;
 import java.util.List;
+import java.util.Optional;
 
 public class CourseUserDemo {
 
     public static void main(String [] args) {
         CourseUsersService courseUsersService = new CourseUsersServiceImpl();
 
-        CourseUsers courseUsers = new CourseUsers("Jack2", "Smith2", 50, "jac@smith.com");
+        //CourseUsers courseUsers = new CourseUsers("Jack2", "Smith2", 50, "jac@smith.com");
 
         try {
             //CourseUsers courseUserFromDB = courseUsersService.createCourseUsers(courseUsers);
 
             //System.out.println(courseUserFromDB.toString());
 
-            List<CourseUsers> courseUsersList = courseUsersService.getAllUsers();
+            //List<CourseUsers> courseUsersList = courseUsersService.getAllUsers();
 
-            for (CourseUsers users : courseUsersList) {
+            //List<CourseUsers> courseUsersYoungerThen28 = courseUsersService.getAllUsersYoungerThenProvidedAge(28);
+
+            /*for (CourseUsers users : courseUsersYoungerThen28) {
                 System.out.println(users.toString());
-            }
-        /*} catch (CourseUserException e) {
-            e.printStackTrace();*/
+            }*/
+
+            //Update user
+            /*Optional<CourseUsers> opCourseUser = courseUsersService.getCourseUserById(1);
+            opCourseUser.ifPresent(user -> System.out.println(user));
+
+            if(opCourseUser.isPresent()) {
+                CourseUsers userToUpdate = opCourseUser.get();
+                userToUpdate.setAge(25);
+                opCourseUser = courseUsersService.updateCourseUsers(userToUpdate);
+
+                opCourseUser.ifPresent(user -> System.out.println(user));
+            }*/
+            courseUsersService.deleteUserById(5);
+
+        } catch (CourseUserException e) {
+            e.printStackTrace();
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         } catch (ClassNotFoundException e) {

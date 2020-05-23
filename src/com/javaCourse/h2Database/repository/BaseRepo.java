@@ -11,4 +11,6 @@ public interface BaseRepo {
      void update(String query) throws SQLException, ClassNotFoundException;
 
      void delete(String query) throws SQLException, ClassNotFoundException;
+
+     void deleteById(String tableName, int id) throws SQLException, ClassNotFoundException;
 }

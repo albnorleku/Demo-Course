@@ -26,17 +26,28 @@ public class BaseRepoImpl implements BaseRepo {
 
     @Override
     public void update(String query) throws SQLException, ClassNotFoundException {
-        this.executeStatement(query);
+        Statement statement = databaseConnection.getDbConnection().createStatement();
+        statement.execute(query);
     }
 
     @Override
     public void delete(String query) throws SQLException, ClassNotFoundException {
-        this.executeStatement(query);
+        this.executeStatement2(query);
+    }
+
+    public void deleteById(String tableName, int id) throws SQLException, ClassNotFoundException {
+        String query = "DELETE FROM " + tableName + " WHERE id = " + id;
+        this.executeStatement2(query);
     }
 
     private ResultSet executeStatement(String query) throws SQLException, ClassNotFoundException {
         Statement statement = databaseConnection.getDbConnection().createStatement();
         ResultSet resultSet = statement.executeQuery(query);
         return resultSet;
+    }
+
+    private void executeStatement2(String query) throws SQLException, ClassNotFoundException {
+        Statement statement = databaseConnection.getDbConnection().createStatement();
+        statement.execute(query);
     }
 }

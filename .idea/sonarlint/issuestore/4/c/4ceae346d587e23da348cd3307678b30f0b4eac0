@@ -1,17 +1,17 @@
 
+q
+java:S1450"URemove the "thread" field and declare it as a local variable in the relevant methods.(â£Ÿ48³’žñ¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿÿùá8ÁÜµñ¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê´È´øÿÿÿÿ
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ö—µñ¡.
 W
 java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8†ü‘ñ¡.
 V
 java:S1161":Add the "@Override" annotation above this method signature(ú¡­,8­¹šñ¡.
-q
-java:S1450"URemove the "thread" field and declare it as a local variable in the relevant methods.(â£Ÿ48³’žñ¡.
 c
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ö—µñ¡.
-1
-java:S2438""this" is a "Thread".(¢™¾d8³’žñ¡.
-E
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ö—µñ¡.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê´È´øÿÿÿÿ
 e
 java:S3551"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8­¹šñ¡.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿÿùá8ÁÜµñ¡.
+1
+java:S2438""this" is a "Thread".(¢™¾d8³’žñ¡.

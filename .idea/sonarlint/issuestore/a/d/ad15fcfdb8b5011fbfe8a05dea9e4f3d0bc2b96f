@@ -1,0 +1,17 @@
+
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(µ¤«8û´Ä¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İõ´8ìñúÃ¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¯•İøÿÿÿÿ8¸†Ä¢.
+E
+java:S1148."#Use a logger to log this exception.(Ö·÷şÿÿÿÿ8û´Ä¢.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÄÿÖøÿÿÿÿ
+F
+java:S2115")Add password protection to this database.(¿ªÛ²8ŠïûÃ¢.
+E
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û´Ä¢.
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¿ªÛ²8°Û¬Ä¢.
+]	java:S125"<This block of commented-out lines of code should be removed.(óÜ¤„úÿÿÿÿ8ÿØ´Ä¢.
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(„Ë†¬8éûøÃ¢.
+]	java:S125"<This block of commented-out lines of code should be removed.(îÍœşÿÿÿÿÿ8Ö›ÍÆ¢.
